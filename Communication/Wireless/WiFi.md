@@ -3,11 +3,11 @@
 This page details the various Wireless Communication Technology - WiFi.
 
 ## Wireless-Fidelity (Wi-Fi)
-     - Introduced : 1997
-     - Frequency :  2.4 GHz (UHF) and 5 GHz (SHF)
-     - Standards : IEEE 802.11
-     - Channels : 11
-     - Maintained/Supported by : Wi-Fi Alliance (formed in 1999)
+- Introduced : 1997
+- Frequency :  2.4 GHz (UHF) and 5 GHz (SHF)
+- Standards : IEEE 802.11
+- Channels : 11
+- Maintained/Supported by : Wi-Fi Alliance (formed in 1999)
      
 ## Versions
 
