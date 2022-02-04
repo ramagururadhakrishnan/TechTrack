@@ -19,24 +19,24 @@ This page details the various Wireless Communication Technologies.
 ## Wireless Personal Area Network (WPAN)
 - Range : 10 to 100 m (Short Range)
 - **Examples**
-  - **Bluetooth (BT)**
+  - **[Bluetooth (BT)](BT.md)**
      - Introduced : 1998
      - Frequency : 2.402 to 2.48 GHz (ISM Band) 
      - Standards : IEEE 802.15.1 (no longer maintained)
      - Channels : 40
      - Maintained/Supported by : Bluetooth Special Interest Group 
-  - **ZigBee**
+  - **[ZigBee](ZigBee.md)**
      - Introduced : 1990
      - Frequency :2.4 GHz (ISM Band) 
      - Standards : IEEE 802.15.4
      - Channels : 16
-     - Data Rate : 20 kbps 250 Kbps
+     - Data Rate : 20 kbps to 250 Kbps
      - Maintained/Supported by : Connectivity Standards Alliance (formely ZigBee Alliance)
 
 ## Wireless Local Area Network (WLAN)
 - Range : 100 to 1000 m (Short to Medium Range)
 - **Examples**
-  - **Wireless-Fidelity (Wi-Fi)**
+  - **[Wireless-Fidelity (Wi-Fi)](WiFi.md)**
      - Introduced : 1997
      - Frequency :  2.4 GHz (UHF) and 5 GHz (SHF)
      - Standards : IEEE 802.11
