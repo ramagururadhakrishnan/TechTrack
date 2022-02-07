@@ -88,7 +88,7 @@ This page details the various Wireless Communication Technologies.
   - **Low Power Wide Area Network (LPWAN)**
      - Long Range (LoRAWAN)
          - Introduced : 2010
-         - Frequency : 13.56 MHz (ISM Band) 
+         - Frequency : 2.4 GHz (ISM Band)
          - Standards : ISO/IEC 18000 - Part 3
          - MAC : LoRaMAC
          - Modulation : Derived from Chirp Spread Spectrum (CSS)
